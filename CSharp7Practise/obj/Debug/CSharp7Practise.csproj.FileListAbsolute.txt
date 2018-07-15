@@ -1,0 +1,7 @@
+D:\c sharp\Visual Studio 2017\CSharp7Practise\CSharp7Practise\bin\Debug\CSharp7Practise.exe.config
+D:\c sharp\Visual Studio 2017\CSharp7Practise\CSharp7Practise\bin\Debug\CSharp7Practise.exe
+D:\c sharp\Visual Studio 2017\CSharp7Practise\CSharp7Practise\bin\Debug\CSharp7Practise.pdb
+D:\c sharp\Visual Studio 2017\CSharp7Practise\CSharp7Practise\obj\Debug\CSharp7Practise.csprojAssemblyReference.cache
+D:\c sharp\Visual Studio 2017\CSharp7Practise\CSharp7Practise\obj\Debug\CSharp7Practise.csproj.CoreCompileInputs.cache
+D:\c sharp\Visual Studio 2017\CSharp7Practise\CSharp7Practise\obj\Debug\CSharp7Practise.exe
+D:\c sharp\Visual Studio 2017\CSharp7Practise\CSharp7Practise\obj\Debug\CSharp7Practise.pdb
